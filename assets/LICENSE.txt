@@ -8,3 +8,5 @@ Full text: https://openfontlicense.org
 The file schibsted-grotesk.woff2 is the latin subset of the variable font,
 as served by Google Fonts, self-hosted here so no page makes a third-party
 request.
+
+Familjen Grotesk: Copyright 2022 The Familjen Grotesk Project Authors. Licensed under the SIL Open Font License, Version 1.1.

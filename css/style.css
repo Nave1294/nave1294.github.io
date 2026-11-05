@@ -24,7 +24,7 @@
   --border: #e2e0db;
   --bg: #fbfaf7;
   --card: #fff;
-  --accent: #1d5c63;
+  --accent: #9c4a26; /* corten steel */
   --wrap: 1040px;
   --gutter: clamp(20px, 5vw, 48px);
   --radius: 16px;
